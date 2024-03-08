@@ -10,5 +10,5 @@ Pro úkol byly poskytnuty dva datové soubory [containers](Zadání/containers.g
   
 - [MHMP](MHMP.ipynb)  je jen jednoduchý návrh na jednoduchý dashboard jen informační o kontejnerech kde [Container_map](Container_map.html) je mapa rozmístění kontejnerů
 
-  - Rozvaha  [MHMP](rozvaha.pdf)
+  - Rozvaha  [Dashboard](rozvaha.pdf)
   
